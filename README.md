@@ -10,11 +10,9 @@
 
 https://serhei-malyshev.github.io/goit-markup-hw-05-modal-window
 
-### Design mockup
+### Design mockup Modal Window
 
-https://github.com/Serhei-Malyshev/goit-markup-hw-05/blob/main/images/mockup-jpg/GOIT-HM-5-Main-Page.jpg
-
-https://github.com/Serhei-Malyshev/goit-markup-hw-05/blob/main/images/mockup-jpg/GOIT-HM-5-Modal.jpg
+https://github.com/Serhei-Malyshev/goit-markup-hw-05-modal-window/blob/main/images/mockup-jpg/GOIT-HM-5-Modal.jpg
 
 ## Review of other educational projects of GOIT
 
