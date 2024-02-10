@@ -538,6 +538,7 @@ label {
 
 .footer__wrap-social {
   width: 208px;
+  margin-right: 80px;
 }
 
 .footer__social-definition {
@@ -584,8 +585,98 @@ label {
 }
 /* footer-social-icon-end */
 
-/** footer-section-end */
-/** modal-start */
+/* footer-subscribe-start */
+
+.footer__wrap-subscribe {
+  width: 453px;
+}
+
+.footer__subscribe-definition {
+  margin-bottom: 16px;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.footer__subscribe-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+.footer__subscribe-input {
+  width: 264px;
+  height: 40px;
+  padding: 8px 16px;
+
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.04em;
+
+  color: #ffffff;
+  border-radius: 4px;
+  border: 1px solid #ffffff;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  background-color: transparent;
+}
+
+.footer__subscribe-input:focus {
+  outline: #ffffff;
+}
+
+.footer__subscribe-input::placeholder {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+
+  color: #ffffff;
+}
+
+.footer__subscribe-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  min-width: 165px;
+  padding: 8px 24px;
+
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  background-color: #4d5ae5;
+  cursor: pointer;
+
+  transition-property: background-color;
+  transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.footer__subscribe-button:hover,
+.footer__subscribe-button:focus {
+  background-color: #404bbf;
+}
+
+.footer__subscribe-telegram-icon {
+  margin-left: 16px;
+
+  fill: #ffffff;
+}
+
+/* footer-form-end */
+
+/** footer-section-end **/
+/** modal-start **/
 
 .backdrop {
   position: fixed;
