@@ -21,4 +21,3 @@ https://github.com/Serhei-Malyshev/goit-markup-hw-05-modal-window/blob/main/imag
 * https://github.com/Serhei-Malyshev/goit-markup-hw-03
 * https://github.com/Serhei-Malyshev/goit-markup-hw-04
 * https://github.com/Serhei-Malyshev/goit-markup-hw-05
-* https://github.com/Serhei-Malyshev/goit-markup-hw-06
